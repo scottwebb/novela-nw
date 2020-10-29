@@ -1,30 +1,30 @@
 require("dotenv").config();
 
 const siteMetadata = {
-  title: `Awesome Figma Tips`,
-  name: `Awesome Figma Tips`,
-  siteUrl: `https://awesomefigmatips.com`,
+  title: `London in Motion | London Ontario Video Clips`,
+  name: `London in Motion`,
+  siteUrl: `https://londoninmotion.com`,
   description: `Cool collections of curated tips to help you work faster with Figma. There are tips I had learn on the way. I realized that some people might need it.`,
   hero: {
     heading: `Hi, I’m Trong, <br/> product designer.`,
-    writingHeading: `Tips to <br/> fasten <br/>Figma <br/>workflow.`,
+    writingHeading: `Short video <br/> clips of <br/>London <br/>Ontario.`,
     filesHeading: `Awesome <br/> Figma Files`,
     filesSub: `Fasten your next design project with this curated collection of awesome Figma files. Created by our awesome Figma community.`,
-    pluginsHeading: `Awesome <br/> Figma Plugins`,
-    pluginsSub: `When Figma introduced plugins, the tool became more awesome. I love them so much and I want to share with you all my favorite ones. So you can fasten your workflow, and of course, design better.`,
+    pluginsHeading: `Awesome <br/> Resources`,
+    pluginsSub: `A list of resources and gear used to bring the videos and website to you. I love them so much and I want to share with you all my favorite ones.`,
     maxWidth: 900,
   },
   social: [
     {
-      url: `https://twitter.com/trongawesome`,
+      url: `https://twitter.com/scotty_webb`,
     },
     {
-      name: 'medium',
-      url: `https://medium.com/@trongawesome`,
+      name: 'unsplash',
+      url: `https://unsplash.com/scottwebb`,
     },
     {
       name: 'instagram',
-      url: `https://www.instagram.com/trongawesome`,
+      url: `https://www.instagram.com/scottwebb`,
     },
   ],
 };
@@ -48,8 +48,8 @@ const plugins = [
   {
     resolve: `gatsby-plugin-manifest`,
     options: {
-      name: `Awesome Figma Tips`,
-      short_name: `Figma Tips`,
+      name: `London in Motion`,
+      short_name: `London in Motion`,
       start_url: `/`,
       background_color: `#090A0B`,
       display: `standalone`,

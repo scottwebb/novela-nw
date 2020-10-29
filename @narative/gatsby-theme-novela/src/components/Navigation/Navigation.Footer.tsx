@@ -53,8 +53,8 @@ const Footer: React.FC<{}> = () => {
         <FooterContainer>
           <FooterText>
             © {copyrightDate} by
-            <Anchor target="_blank" href="https://trongnguyen.co">
-              Trong Nguyen
+            <Anchor target="_blank" href="https://www.scottwebb.me">
+              Scott Webb
             </Anchor>
           </FooterText>
           <div>

@@ -10,7 +10,7 @@ import PageHero from "../sections/others/Page.Hero";
 import CardSingleList from "../sections/articles/Card.Single.List";
 
 const seoImage = '/preview-figma-plugins.jpg';
-const actionTitle = 'Install this plugin';
+const actionTitle = 'Check it out';
 
 const regex = /(<([^>]+)>)/ig; //remove html tag
 

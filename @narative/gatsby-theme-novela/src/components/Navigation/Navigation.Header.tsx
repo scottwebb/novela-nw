@@ -90,14 +90,14 @@ const NavigationHeader: React.FC<{}> = () => {
           <Hidden>Navigate back to the homepage</Hidden>
         </LogoLink>
         <NavControls>
-          <NavLink to={`/tips`} title={`All tips`} activeClassName="active" >
-            Tips
+          <NavLink to={`/clips`} title={`All London Clips`} activeClassName="active" >
+            Clips
           </NavLink>
           <NavLink to={`/awesome-files`} title={`Awesome Figma Files`} activeClassName="active" >
-            Files
+            About
           </NavLink>
-          <NavLink to={`/awesome-plugins`} title={`Awesome Figma Plugins`} activeClassName="active" >
-            Plugins
+          <NavLink to={`/awesome-resources`} title={`Resources Used`} activeClassName="active" >
+            Resources
           </NavLink>
           <DarkModeToggle />
         </NavControls>

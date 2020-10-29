@@ -44,7 +44,7 @@ const FeaturedArticlesHero: React.FC<IAuthor> = ({ authors }) => {
             <HeadingContainer>
               <HeroHeading dangerouslySetInnerHTML={{ __html: hero.writingHeading }} />
               <InfoText>
-                Small but awesome tips to work faster in Figma.
+              Short but awesome clips shot in London, Ontario, Canada.
               </InfoText>
             </HeadingContainer>
           </HeroContent>

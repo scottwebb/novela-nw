@@ -70,7 +70,7 @@ const ArticlesList: React.FC<ArticlesListProps> = ({
         })}
       </List>
 
-      <ViewAllTips to="/tips" data-a11y="false"> View all tips → </ViewAllTips>
+      <ViewAllTips to="/clips" data-a11y="false"> View all clips → </ViewAllTips>
 
     </ArticlesListContainer>
   );
