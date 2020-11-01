@@ -44,7 +44,7 @@ const FeaturedArticlesHero: React.FC<IAuthor> = ({ authors }) => {
             <HeadingContainer>
               <HeroHeading dangerouslySetInnerHTML={{ __html: hero.writingHeading }} />
               <InfoText>
-                Short but awesome video clips shot in London, Ontario, Canada.
+                Short but awesome video clips shot in London, Ontario, Canada.  A way to explore London and videos available for licensing for your own projects.
               </InfoText>
             </HeadingContainer>
             <Logo>

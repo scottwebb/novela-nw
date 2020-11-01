@@ -8,67 +8,17 @@
   desc: Aerial footage you find on this website was shot with the DJI Mavic Mini
   url: https://click.dji.com/ALJ_9LCOtNUkm2VXsinGaQ?pm=link
 
-- title: Content Reel
+- title: DJI Pocket 2
   image: ./images/figma-tips-plugins-content-reel.jpg
   desc: From the giant, Microsoft, content Reel helps you easily pull text strings, avatars, and icons into your designs. Most popular content types are already included. We just need to select and click to pour content.
   url: https://www.figma.com/community/plugin/731627216655469013/Content-Reel
 
-- title: Measure Tools
+- title: GatsbyJS
   image: ./images/figma-tips-plugins-measure-tools.jpg
   desc: Preparing designs for developer hand-off with detailed measurements, specs, and intricate red lines. This plugin creates and generate detailed spec from a selection of objects with ease.
-  url: https://www.figma.com/community/plugin/822781486072277843/Measure-Tools
+  url: https://gatsbyjs.com
 
-- title: Status Annotations
+- title: Sony A7RIII
   image: ./images/figma-tips-plugins-status.jpg
   desc: Quickly indicate the status of your designs when collaborating with your team. Ease the confusion between designers and stakeholders.
   url: https://www.figma.com/community/plugin/795096273369409539/Status-Annotations
-
-- title: Lottiefiles
-  image: ./images/figma-tips-plugins-lottiefiles.jpg
-  desc: Render Lottie animation (JSON file) to a GIF so you can use it in your Figma prototype.
-  url: https://www.figma.com/community/plugin/809860933081065308/LottieFiles
-
-- title: Design System Organizer
-  image: ./images/figma-tips-plugins-dso.jpg
-  desc: Say goodbye to endless naming schemes with "/" for Components and Styles. Say hello to a convenient interface to organize design system elements.
-  url: https://www.figma.com/community/plugin/802579985985331070/Design-System-Organizer
-
-- title: Similayer
-  image: ./images/figma-tips-plugins-similayer.jpg
-  desc: Select all other layers based on specific properties. All instances of a specific component, specific text style, corner radius, color
-  url: https://www.figma.com/community/plugin/735733267883397781/Similayer
-
-- title: Color blind
-  image: ./images/figma-tips-plugins-color-blind.jpg
-  desc: View your designs in the 8 different types of color vision deficiencies. 
-  url: https://www.figma.com/community/plugin/733343906244951586/Color-Blind
-
-- title: Arrow Auto
-  image: ./images/figma-tips-plugins-arrow-auto.jpg
-  desc: Between Arrow Auto and Auto Flow, I will choose Arrow Auto to draw the flow. Arrow Auto works well in symbol, which is the weakness of Auto Flow.
-  url: https://www.figma.com/community/plugin/751007211632768205/Arrow-Auto
-
-- title: Vectacry 3D
-  image: ./images/figma-tips-plugins-vectary.jpg
-  desc: Place your Figma design into a predefined 3D mockup or your custom 3D element, with one click. You can also set your desired perspective.
-  url: https://www.figma.com/community/plugin/769588393361258724/Vectary-3D
-
-- title: Easometric
-  image: ./images/figma-tips-plugins-easometric.jpg
-  desc: It's really easy to create isometric layers & groups. Building a 3D-like object with simple clicks.
-  url: https://www.figma.com/community/plugin/750743440401413268/Easometric
-
-- title: SkewDat
-  image: ./images/figma-tips-plugins-skewdat.jpg
-  desc: Skew anything & everything in sight within Figma. With it, you can transform anything to the desired perspective.
-  url: https://www.figma.com/community/plugin/741472919529947576/SkewDat
-
-- title: Blush
-  image: ./images/figma-tips-plugins-blush.jpg
-  desc: Create and customize illustrations in Figma with Blush. Otherwise, visit blush.design to find and download illustrations.
-  url: https://www.figma.com/community/plugin/838959511417581040/Blush
-
-- title: Webgradients
-  image: ./images/figma-tips-plugins-webgradient.jpg
-  desc: Add beautiful gradients from webgradients.com.
-  url: https://www.figma.com/community/plugin/802147585857776440/Webgradients
