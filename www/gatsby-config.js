@@ -26,6 +26,10 @@ const siteMetadata = {
       name: 'instagram',
       url: `https://www.instagram.com/scottwebb`,
     },
+    {
+      name: 'facebook',
+      url: `https://facebook.com/scottwebbphotography`,
+    },
   ],
 };
 
