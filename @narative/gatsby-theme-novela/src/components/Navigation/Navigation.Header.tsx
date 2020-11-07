@@ -93,7 +93,7 @@ const NavigationHeader: React.FC<{}> = () => {
           <NavLink to={`/clips`} title={`All London Clips`} activeClassName="active" >
             Clips
           </NavLink>
-          <NavLink to={`/awesome-files`} title={`Sponsors`} activeClassName="active" >
+          <NavLink to={`/awesome-sponsors`} title={`Sponsorship`} activeClassName="active" >
             Sponsors
           </NavLink>
           <NavLink to={`/awesome-resources`} title={`Resources Used`} activeClassName="active" >
