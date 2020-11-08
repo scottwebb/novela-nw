@@ -8,8 +8,8 @@ const siteMetadata = {
   hero: {
     heading: `Hi, I’m Scott, <br/> photographer.`,
     writingHeading: `Short video <br/> clips of <br/>London <br/>Ontario.`,
-    filesHeading: `Awesome <br/> Sponsors of London in Motion`,
-    filesSub: `Check out these amazing sponsors of London in Motion. Contact us if you're interested in a sponsorship or more details! londoninmotion@gmail.com`,
+    filesHeading: `Awesome <br/> ways to support London in Motion`,
+    filesSub: `Ways to support Us! If you'd like to advertise here, please connect at londoninmotion@gmail.com`,
     pluginsHeading: `Awesome <br/> Resources`,
     pluginsSub: `A list of resources and gear used to bring the videos and website to you. I love them so much and I want to share with you all my favorite ones.`,
     maxWidth: 900,
